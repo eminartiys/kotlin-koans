@@ -16,6 +16,8 @@ fun todoTask10(): Nothing = TODO(
     documentation = doc10()
 )
 
+// I don't understand
+
 fun task10(): List<Int> {
     val arrayList = arrayListOf(1, 5, 2)
     Collections.sort(arrayList, todoTask10())
